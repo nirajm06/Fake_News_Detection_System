@@ -3,4 +3,5 @@ This project is a machine learning-based web app built with Python and the Strea
 
 # SOFTWARE REQUIREMENTS
 Operating System : Any version of Windows NT family (4.0 &above)
-python
+. python
+. jupyter Notebook
